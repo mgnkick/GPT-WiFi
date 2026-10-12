@@ -1,0 +1,14 @@
+{
+  "name": "WiFi Expert - Помощник инженера связи",
+  "description": "Android-приложение для реального сканирования Wi-Fi, диагностики LAN, ICMP ping, тестирования скорости интернета и формирования отчётов для технической поддержки.",
+  "platform": "Android",
+  "majorCapabilities": [
+    "ANDROID_WIFI_SCAN",
+    "LAN_DEVICE_DISCOVERY",
+    "ICMP_PING",
+    "INTERNET_SPEED_TEST",
+    "SUPPORT_REPORT",
+    "WIFI_CHANNEL_ANALYSIS",
+    "LOCAL_KNOWLEDGE_BASE"
+  ]
+}
